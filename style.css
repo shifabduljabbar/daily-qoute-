@@ -125,4 +125,7 @@ body {
 
         max-width: 270px;
     }
+    #quote {
+      white-space: pre-line;
+   }
 }
